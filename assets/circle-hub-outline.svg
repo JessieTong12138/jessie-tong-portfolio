@@ -1,0 +1,26 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#405044" stroke-width="1.25" opacity=".75">
+    <path d="M228 618C313 555 411 526 521 530C620 534 709 563 783 621C852 675 923 698 1019 692C1113 686 1185 638 1243 580"/>
+    <path d="M194 665C307 582 406 557 514 562C613 566 700 598 773 653C853 713 921 737 1018 730C1120 722 1194 667 1276 591" stroke-dasharray="5 8"/>
+    <ellipse cx="503" cy="504" rx="167" ry="45"/>
+    <path d="M336 504V646C336 671 411 691 503 691C595 691 670 671 670 646V504"/>
+    <ellipse cx="503" cy="646" rx="167" ry="45"/>
+    <ellipse cx="731" cy="408" rx="116" ry="33"/>
+    <path d="M615 408V591C615 609 667 624 731 624C795 624 847 609 847 591V408"/>
+    <ellipse cx="731" cy="591" rx="116" ry="33"/>
+    <ellipse cx="943" cy="555" rx="128" ry="36"/>
+    <path d="M815 555V661C815 681 872 697 943 697C1014 697 1071 681 1071 661V555"/>
+    <ellipse cx="943" cy="661" rx="128" ry="36"/>
+    <path d="M360 524C392 480 425 461 466 449C531 430 579 442 624 475C663 503 699 507 735 484C774 460 806 445 847 451" stroke="#A17B59" stroke-width="2"/>
+    <path d="M846 451C879 461 900 487 915 523C930 561 962 580 1007 577" stroke="#A17B59" stroke-width="2"/>
+    <path d="M113 778H1330" opacity=".42"/>
+    <path d="M200 764V792M470 764V792M739 764V792M1008 764V792M1277 764V792" opacity=".42"/>
+    <path d="M1120 173C1182 173 1232 223 1232 285C1232 347 1182 397 1120 397C1058 397 1008 347 1008 285C1008 223 1058 173 1120 173Z" stroke-dasharray="2 9"/>
+    <path d="M1120 235V335M1070 285H1170" opacity=".62"/>
+  </g>
+  <g fill="#405044" font-family="monospace" font-size="11" letter-spacing="2" opacity=".7">
+    <text x="231" y="812">CIRCULATION / 01</text>
+    <text x="1004" y="144">GEOMETRY STUDY</text>
+    <text x="1056" y="426">NORTH / 23°</text>
+  </g>
+</svg>
